@@ -1,5 +1,3 @@
-# Awesome-Agentic-Workflow
-
 # Awesome Agentic Workflow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 🚀 智能体工作流程的终极资源库 | 精选论文解读 + 代码实现集合
